@@ -71,7 +71,9 @@ int main(int argc, char *argv[]) {
     return EXIT_SUCCESS;
 }
 ```
+## OUTPUT
 
+![Screenshot 2025-05-19 213953](https://github.com/user-attachments/assets/5aa4898b-52c8-40f7-aae2-faa84af925c1)
 
 ## 2.To Write a C program that illustrates files locking
 ```
@@ -145,11 +147,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![Screenshot 2025-05-18 140822](https://github.com/user-attachments/assets/b3bc8f96-9a5f-440e-b183-a4291eca2448)
 
-
-
-![Screenshot 2025-05-18 141431](https://github.com/user-attachments/assets/2c16e6a8-00ba-48c9-9180-9743bfaf627d)
+![Screenshot 2025-05-19 214158](https://github.com/user-attachments/assets/1aa6c5b9-36fb-4b0a-9f33-3c81fd01fe23)
 
 
 # RESULT:
